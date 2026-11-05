@@ -15,3 +15,7 @@
 [MelonLoader](https://github.com/lavagang/melonloader) is installed by default, mods go in the `Mods` folder. Don't delete `GamePatches.dll` from there: the game won't load without it.
 
 A small modding API is also included.
+
+### Optional mods
+- [Gamepad Restoration](https://gamebanana.com/mods/735998): restores gamepad functions within the game through XInput conversion.
+- [Debug Mode](https://gamebanana.com/mods/736400): adds the hidden debug menu back to the game.
